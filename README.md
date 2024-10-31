@@ -1,7 +1,7 @@
 <div align="center">
   <br />
-    <a href="https://mediflowcol.netlify.app/" target="_blank">
-      <img src="https://raw.githubusercontent.com/SebastianZxD/project-banners/refs/heads/main/assets/mediflow-banner.png" alt="Project Banner">
+    <a href="https://syncwrite.vercel.app/" target="_blank">
+      <img src="https://raw.githubusercontent.com/SebastianZxD/project-banners/refs/heads/main/assets/syncwrite-banner.png" alt="Project Banner">
     </a>
   <br />
 
